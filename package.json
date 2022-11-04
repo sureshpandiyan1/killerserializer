@@ -1,0 +1,26 @@
+{
+  "name": "killerserializer",
+  "version": "1.0.0",
+  "description": "better way to create a random hash for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sureshpandiyan1/killerserializer.git"
+  },
+  "keywords": [
+    "serialization",
+    "security",
+    "flask",
+    "security",
+    "serializer"
+  ],
+  "author": "suresh p",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/sureshpandiyan1/killerserializer/issues"
+  },
+  "homepage": "https://github.com/sureshpandiyan1/killerserializer#readme"
+}
